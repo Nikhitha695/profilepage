@@ -1,0 +1,6 @@
+@profilepage.Server_HostAddress = http://localhost:5278
+
+GET {{profilepage.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
